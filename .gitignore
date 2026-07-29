@@ -1,0 +1,10 @@
+logs/
+state/
+--key/
+.codex/worktrees/*
+!.codex/worktrees/.gitkeep
+*.pem
+*.key
+*.ppk
+.aws/
+credentials
